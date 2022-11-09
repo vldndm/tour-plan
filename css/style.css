@@ -329,6 +329,7 @@ body {
 .map {
   width: 347px;
   height: 213px;
+  border-radius: 4px;
 }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
